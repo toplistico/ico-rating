@@ -9,5 +9,4 @@ var pic = document.getElementById("pic");
 pic.style.width=slideAmount+"px";
 pic.style.height=slideAmount+"auto";
 }
-
-
+df
